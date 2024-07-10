@@ -1,0 +1,23 @@
+/* src/styles/AlgorithmCard.css */
+.algorithm-card {
+    border: 1px solid #FADCD9;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    gap: 16px;
+    box-shadow: 0 4px 8px #F8AFA6;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+
+}
+
+.algorithm-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5%;
+    margin-bottom: 16px;
+}

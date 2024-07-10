@@ -3,7 +3,7 @@ export const algorithms = [
     {
         name: 'Binary Search',
         description: 'A search algorithm that finds the position of a target value within a sorted array.',
-        image: require('../src/images/binary-search.jpg')
+        image: require('../src/images/binary-search-1.jpg')
     },
     {
         name: 'Merge Sort',

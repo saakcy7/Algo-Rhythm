@@ -6,6 +6,7 @@ import { Route,Routes } from 'react-router-dom';
 import Home from '../src/pages/home';
 import About from '../src/pages/about';
 import Algorithms from '../src/pages/algorithms';
+import './App.css';
 const App = () => {
     return (
       <Router>
