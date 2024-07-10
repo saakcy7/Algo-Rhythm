@@ -3,8 +3,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #282c34;
+    background-color: #edb8bd;
     padding: 10px 20px;
+    box-shadow: 0 4px 8px #FFC2C7;
+    border: 1px solid #f0a5ab;
+    border-radius: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    margin-top: 25px;
+
 }
 
 .navbar-logo a {
@@ -32,4 +41,5 @@
 
 .navbar-links a:hover {
     text-decoration: underline;
+    color: #0e0c0d;
 }

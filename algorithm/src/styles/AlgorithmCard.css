@@ -1,9 +1,10 @@
 /* src/styles/AlgorithmCard.css */
 .algorithm-card {
     border: 1px solid #FADCD9;
+   
     padding: 20px;
     margin: 20px;
-    border-radius: 8px;
+    border-radius: 18px;
     gap: 16px;
     box-shadow: 0 4px 8px #F8AFA6;
     text-align: center;
@@ -11,6 +12,11 @@
     margin-left: auto;
     margin-right: auto;
     background-color: #f9f9f9;
+    color: #282c34;
+    align-items: center;
+    justify-content: center;
+
+    
 
 }
 
@@ -20,4 +26,10 @@
     object-fit: cover;
     border-radius: 5%;
     margin-bottom: 16px;
+}
+
+.algorithm-card h2{
+    font-size: 40px;
+    font-weight: 400;
+    color: #c68fdd;
 }
