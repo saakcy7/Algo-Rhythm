@@ -1,5 +1,5 @@
 import React from "react";
-import './AlgorithmList.css';
+import '../styles/AlgorithmList.css';
 import AlgorithmCard from './AlgorithmCard';
 const AlgorithmList = ({ algorithms }) => {
 return(
