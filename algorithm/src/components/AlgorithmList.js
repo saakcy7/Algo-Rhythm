@@ -5,7 +5,7 @@ const AlgorithmList = ({ algorithms }) => {
 return(
     <div className="algorithm-list">
         {algorithms.map((algorithm, index) => (
-            <AlgorithmCard key={index} name={algorithm.name} description={algorithm.description} image={algorithm.image} />
+            <AlgorithmCard key={index} name={algorithm.name} description={algorithm.description} image={algorithm.image} link={algorithm.link}/>
         ))}
     </div>
 )
