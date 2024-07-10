@@ -32,7 +32,7 @@ To use this website, simply navigate to each algorithm's page to read about its 
 
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/saakcy7/Algo-Rhythm.git
 
 ## Install dependencies:
 
