@@ -15,7 +15,7 @@ Time Complexity:
     },
     {
         name: 'Quick Sort',
-        description: 'An efficient sorting algorithm, serving as a systematic method for placing the elements of a list in order.',
+        description: 'Quick sort is another divide-and-conquer algorithm that works by selecting a pivot element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. Time Complexity: O(nlogn)',
         image: require('../src/images/quick-sort.png')
     },
     // Add more algorithms as needed
